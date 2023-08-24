@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Content Generators and Idea Prompts for Inspiration
-======================================================================================================================================================================
 
 Machine learning can be a powerful tool for generating personalized inspiration and motivation for the vision board process. In this chapter, we will explore how machine learning can be leveraged to create content generators and idea prompts that are tailored to individual needs and preferences.
 

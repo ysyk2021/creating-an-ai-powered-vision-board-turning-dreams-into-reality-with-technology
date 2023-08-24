@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Visualization Techniques with AI
-=====================================================
 
 Visualization techniques can be enhanced with machine learning to provide more immersive and personalized experiences. In this chapter, we will explore some ways to use AI to enhance visualization techniques.
 

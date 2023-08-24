@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 Welcome to "Creating an AI-Powered Vision Board: Turning Dreams into Reality with Technology". In this book, we will explore how to design and implement an AI-powered vision board that can help you achieve your goals and aspirations.
 

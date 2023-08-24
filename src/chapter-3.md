@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Vision Board
-=================================================
 
 Designing an AI-powered vision board involves integrating technology and traditional goal-setting techniques. In this chapter, we will explore the steps for creating a traditional vision board and how to integrate AI-powered tools for personalized content creation and curation, as well as setting realistic goals and tracking progress on your AI-powered vision board.
 

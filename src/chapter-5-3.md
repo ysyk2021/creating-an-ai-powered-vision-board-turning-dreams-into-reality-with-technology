@@ -1,5 +1,3 @@
-Personalizing Visualization Techniques with Machine Learning
-===================================================================================================================
 
 Visualization is a powerful tool for achieving our goals, but not all visualization techniques work the same for everyone. What works for one person may not work for another due to differences in learning styles, personality, and preferences. This is where machine learning can help personalize visualization techniques.
 

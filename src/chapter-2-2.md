@@ -1,5 +1,3 @@
-Common Applications of AI in Goal Achievement, Including Sentiment Analysis and Personalization
-=====================================================================================================================================================================
 
 AI is a powerful tool that can be leveraged in many ways to support goal achievement. In this chapter, we will explore some common applications of AI in the vision board process, including sentiment analysis and personalization.
 

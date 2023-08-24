@@ -1,5 +1,3 @@
-Steps for Creating a Traditional Vision Board
-================================================================================================
 
 Before integrating AI-powered tools into your vision board process, it's important to start with the basics of traditional vision board creation. In this chapter, we will explore the steps for creating a traditional vision board.
 
