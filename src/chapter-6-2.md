@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Integrating AI into the Vision Board Process while Maintaining Authenticity and Integrity
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating AI into the vision board process can be a powerful way to enhance your goal-setting and manifestation efforts. However, it's essential to do so in a manner that preserves the authenticity and integrity of your aspirations. In this chapter, we'll explore the best practices for seamlessly incorporating AI while staying true to your vision.
 

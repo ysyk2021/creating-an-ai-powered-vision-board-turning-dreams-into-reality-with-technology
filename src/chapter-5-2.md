@@ -1,5 +1,4 @@
-Chapter 10: AI-Powered Augmented Reality and Virtual Reality for Engaging with Your Goals
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to turn your dreams into reality with the aid of technology, augmented reality (AR) and virtual reality (VR) emerge as transformative tools. These immersive technologies, when combined with AI, offer a unique and powerful means to engage with your goals, aspirations, and vision board. In this chapter, we will explore the ways in which AI augments AR and VR, making your journey to success even more interactive and engaging.
 

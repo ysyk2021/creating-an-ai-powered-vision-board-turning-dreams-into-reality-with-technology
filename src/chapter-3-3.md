@@ -1,5 +1,4 @@
-Chapter 4: Setting Realistic Goals and Tracking Progress on Your AI-Powered Vision Board
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the process of turning your dreams into reality with the assistance of technology, setting realistic goals and effectively tracking your progress are fundamental steps. This chapter will delve into the importance of goal setting, the role of AI in setting achievable goals, and how AI can help you track your journey towards success on your AI-powered vision board.
 

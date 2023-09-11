@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does it Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a transformative field of technology that has the potential to turn dreams into reality through innovative applications. In this chapter, we'll explore the fundamental concepts of AI, its working principles, and how it paves the way for creating AI-powered vision boards.
 

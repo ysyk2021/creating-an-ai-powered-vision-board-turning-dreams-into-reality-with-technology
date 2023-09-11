@@ -1,5 +1,4 @@
-Chapter 9: Using Machine Learning-Powered Content Generators and Idea Prompts for Inspiration
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating machine learning-powered content generators and idea prompts into your vision board creation process can significantly enhance your ability to manifest your dreams and goals. This chapter will explore how to leverage these advanced tools to spark inspiration and creativity when building your AI-powered vision board.
 

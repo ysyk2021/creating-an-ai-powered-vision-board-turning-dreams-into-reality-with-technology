@@ -1,5 +1,4 @@
-Chapter 8: Personalizing Visualization Techniques with Machine Learning
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to turn your dreams into reality through AI-powered vision boards, personalization is key. Machine learning, a subset of artificial intelligence (AI), offers powerful tools and techniques to tailor your visualization strategies to your unique needs and aspirations. In this chapter, we will explore how machine learning can be harnessed to personalize your visualization techniques for maximum impact.
 

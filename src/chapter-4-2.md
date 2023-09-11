@@ -1,5 +1,4 @@
-Chapter 9: Implementing Machine Learning-Powered Sentiment Analysis for Aligning Your Goals with Your Values
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of turning dreams into reality with technology, aligning your goals with your core values is essential for long-term fulfillment and success. Machine learning-powered sentiment analysis provides a powerful tool to help you gain deeper insights into your values and ensure that your aspirations are in harmony with what truly matters to you. In this chapter, we will explore how to leverage sentiment analysis for this purpose.
 

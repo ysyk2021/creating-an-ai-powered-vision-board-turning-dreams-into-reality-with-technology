@@ -1,5 +1,4 @@
-Chapter 6: Common Applications of AI in Goal Achievement, Including Sentiment Analysis and Personalization
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to turn your dreams into reality with the aid of technology, artificial intelligence (AI) plays a pivotal role in revolutionizing how we set, pursue, and achieve our goals. This chapter delves into the common applications of AI in goal achievement, with a particular focus on two powerful aspects: sentiment analysis and personalization.
 

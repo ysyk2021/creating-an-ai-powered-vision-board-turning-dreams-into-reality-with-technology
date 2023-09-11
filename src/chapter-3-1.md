@@ -1,5 +1,4 @@
-Chapter 2: Steps for Creating a Traditional Vision Board
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before diving into the world of AI-powered vision boards, it's essential to understand the foundational principles of creating a traditional vision board. This chapter outlines the steps for crafting a tangible, hands-on vision board, which serves as the basis for incorporating technology and AI into your journey of turning dreams into reality.
 

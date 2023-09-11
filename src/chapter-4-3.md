@@ -1,5 +1,4 @@
-Chapter 8: AI-Powered Virtual Coaches and Mentors for Motivation and Support
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to turn dreams into reality using technology, having reliable sources of motivation and support is crucial. AI-powered virtual coaches and mentors have emerged as powerful allies, providing guidance, encouragement, and personalized assistance. In this chapter, we'll explore how these digital companions can play a pivotal role in your goal achievement process.
 

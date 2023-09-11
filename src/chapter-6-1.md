@@ -1,5 +1,4 @@
-Chapter 6: Addressing Concerns about Privacy and Security when Using AI in Visualization and Goal-Setting
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we embrace the power of AI in turning dreams into reality through technology, it's crucial to address concerns related to privacy and security. In this chapter, we will explore the potential risks and best practices for ensuring your personal information and data remain protected while using AI for visualization and goal-setting.
 
